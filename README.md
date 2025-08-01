@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="120px" alt="Profile Animation">
+</p>
+
+---
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+there+👋,+I'm+Viduravi+Adithya;" alt="Hey I'm Viduravi"/>
 </h1>
